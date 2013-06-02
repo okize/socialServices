@@ -1,5 +1,4 @@
 # LINT & MINIFY
-# jshint (>=0.9) & uglifyjs (>=2.2) are required
 
 SCRIPT_NAME = socialServices
 FILESIZE_MAX = 500
